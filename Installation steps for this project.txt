@@ -1,0 +1,24 @@
+Download and install python
+Download and install node.js(check the enviornment variable after installation if )
+
+Front End:
+1.change directory to cnn/frontend
+2.Type npm install and press enter
+3.Type npm run dev and press enter
+4.You can see url like https://localhost:3000 copy this and paste 
+in chrome tab after that you can see the user interface
+
+
+Back End:
+1.change directory to cnn/app
+2.open command prompt in this folder and type pip install -r requirements.txt(make sure you have pip downloaded and installed in system)
+3.type python code/api.py and press enter you can see your backend is successfully running.
+
+
+After doing this above process you play with your project 
+
+
+To run the project everytime you have to follow the 3rd steps from frontend module and last(3rd) step from backend module 
+
+Note:
+Check the locations of folders while typing the commands on command promt evertime
